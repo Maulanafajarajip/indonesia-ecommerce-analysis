@@ -6,7 +6,7 @@ This project analyzes transaction data from a major Indonesian E-commerce platfo
 
 ## ❓ Business Questions
 1. **Revenue Contribution:** Which provinces and cities contribute the most to total payments?
-2. **AOV Distribution:** How does the Average Order Value (AOV) vary across Indonesia (e.g., Jakarta vs. Central Java)?
+2. **AOV Distribution:** How does the Average Order Value (AOV) vary across Indonesia?
 3. **Logistics Preference:** Which shipping options are most popular and how do they impact costs?
 4. **Subsidy Efficiency:** Which regions show the largest "Shipping Gap" (subsidy leak)?
 
@@ -23,7 +23,7 @@ This project analyzes transaction data from a major Indonesian E-commerce platfo
 
 ## 💡 Strategic Recommendations
 1. **Marketing Allocation:** Allocate **60% of the ad budget** to high-volume regions (Java) and **40% to Eastern regions** to target high-value product segments.
-2. * **Customer Retention & Churn Mitigation:** Focus on increasing **Repeat Orders** in metropolitan hubs and implementing a **15-minute post-checkout edit window** to prevent the 43% operational churn caused by order revisions.
+2. **Customer Retention & Churn Mitigation:** Focus on increasing **Repeat Orders** in metropolitan hubs and implementing a **15-minute post-checkout edit window** to prevent the 43% operational churn caused by order revisions.
 3. **Logistics Partnership:** Secure specialized **volume-based contracts** with economy-tier carriers to reduce shipping overhead without compromising reach.
 4. **Fulfillment Optimization:** Transition from direct subsidies to investing in **Micro-Fulfillment Hubs** in Eastern regions to enable localized delivery and margin recovery.
 
