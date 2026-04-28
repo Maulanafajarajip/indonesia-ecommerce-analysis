@@ -13,7 +13,7 @@ This project analyzes transaction data from a major Indonesian E-commerce platfo
 ## 🛠️ Tech Stack
 - **Python** (Pandas, NumPy)
 - **Data Visualization:** Matplotlib, Seaborn
-- **Environment:** Jupyter Notebook / VS Code
+- **Environment:** VS Code
 
 ## 🚀 Key Insights
 - **Promotional Impact:** High correlation (**0.71**) between discounts and quantity, showing price-sensitive behavior.
