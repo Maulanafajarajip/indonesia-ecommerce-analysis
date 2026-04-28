@@ -28,4 +28,4 @@ This project analyzes transaction data from a major Indonesian E-commerce platfo
 4. **Fulfillment Optimization:** Transition from direct subsidies to investing in **Micro-Fulfillment Hubs** in Eastern regions to enable localized delivery and margin recovery.
 
 ---
-*Created by [Maulana Fajar Aji Prasetya] - Statistics Graduate, Universitas Gadjah Mada*
+*Created by Maulana Fajar Aji Prasetya - Statistics Graduate, Universitas Gadjah Mada*
