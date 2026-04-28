@@ -23,9 +23,13 @@ This project analyzes transaction data from a major Indonesian E-commerce platfo
 
 ## 💡 Strategic Recommendations
 1. **Marketing Allocation:** Allocate **60% of the ad budget** to high-volume regions (Java) and **40% to Eastern regions** to target high-value product segments.
-2. **Tiered Sales Strategy:** Focus on **Repeat Orders** in metropolitan hubs while prioritizing **Upselling & Bundling** in Outer Java to optimize shipping unit economics.
+2. * **Customer Retention & Churn Mitigation:** Focus on increasing **Repeat Orders** in metropolitan hubs and implementing a **15-minute post-checkout edit window** to prevent the 43% operational churn caused by order revisions.
 3. **Logistics Partnership:** Secure specialized **volume-based contracts** with economy-tier carriers to reduce shipping overhead without compromising reach.
 4. **Fulfillment Optimization:** Transition from direct subsidies to investing in **Micro-Fulfillment Hubs** in Eastern regions to enable localized delivery and margin recovery.
+
+## 📊 Project Presentation
+You can view or download the comprehensive analysis presentation here:
+[📥 Download PDF Presentation](https://github.com/Maulanafajarajip/indonesia-ecommerce-analysis/blob/main/Data-Analyst-Case-Study-Ecommerce-Optimization-Maulana-Fajar.pdf)
 
 ---
 *Created by Maulana Fajar Aji Prasetya - Statistics Graduate, Universitas Gadjah Mada*
