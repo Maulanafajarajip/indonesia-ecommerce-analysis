@@ -1,4 +1,4 @@
-# 🇮🇩 Indonesia E-Commerce Sales Analysis
+# Indonesia E-Commerce Sales Analysis
 **Solving Logistics Inefficiency and Operational Churn through Data Analytics**
 
 ## 📌 Project Overview
